@@ -1,4 +1,4 @@
-#IDE-RESEARCH
+# IDE-RESEARCH
 
 ## IDE?
 An **integrated development** environment (IDE) is a software application that provides comprehensive facilities to computer programmers for software development. 
@@ -37,7 +37,7 @@ The golden nugget that comes with VSCode is it’s extremely-epic debugging capa
 
 | Pro's        | Cons           | Price |
 | :-------------: |:-------------:| :-----:|
-| Extendable with plug-ins | Slow launch time | FREE |
+| Extendable with plug-ins | Slow launch time | **FREE** |
 | Integrated terminal | autocomplete and code check is not as powerful |   |
 | Debugging | Slow file search |   |
 
@@ -54,6 +54,19 @@ CLion is a platform used to create programs in C and C++ that may be best for no
 | Integrated debugger | Expensive for PRO version | €119 3rd year and on |
 
 
+### NetBeans
+
+NetBeans is a completely free to use IDE that is capable of processing Java, C++, C, PHP programming languages as well as HTML5, CSS and JavaScript. If you use it in the right way, it’s intelligent-intellisense feature can be astoundingly powerful, being able to auto-fill not only programming language methods but able to offer auto-fill on your CSS styles, image paths, file paths and much, much more.
+
+NetBeans has in-built FTP & SFTP services, Git integration, code-formatting shortcuts, completely debug-ready for all programming languages and of course the most important, the ability to change themes, for example, darcula! In essence, this IDE has everything you could possibly need from an IDE, and for the power it brings to your development environment, it’s quite hard-to-believe it’s completely free.
+
+| Pro's        | Cons           | Price |
+| :-------------: |:-------------:| :-----:|
+| Completely free | Not as many themes for code window | **FREE** |
+| Auto-fill | Auto-fill |   |
+| Debugging | Loading time multiple projects |   |
+
+
 ### XCode 
 
 Xcode is an IDE used to create Apple applications for macOS, iOS, watchOS, and tvOS. Xcode allows users to build their apps in several languages such as C, C++, Objective-C, Java, AppleScript, Python, Rez, Ruby, and Apple’s own Swift. 
@@ -67,18 +80,6 @@ Eclipse is an open-source coding environment that has specializations in Java bu
 
 (No further research)
 
-
-### NetBeans
-
-NetBeans is a completely free to use IDE that is capable of processing Java, C++, C, PHP programming languages as well as HTML5, CSS and JavaScript. If you use it in the right way, it’s intelligent-intellisense feature can be astoundingly powerful, being able to auto-fill not only programming language methods but able to offer auto-fill on your CSS styles, image paths, file paths and much, much more.
-
-NetBeans has in-built FTP & SFTP services, Git integration, code-formatting shortcuts, completely debug-ready for all programming languages and of course the most important, the ability to change themes, for example, darcula! In essence, this IDE has everything you could possibly need from an IDE, and for the power it brings to your development environment, it’s quite hard-to-believe it’s completely free.
-
-| Pro's        | Cons           | Price |
-| :-------------: |:-------------:| :-----:|
-| Completely free | Not as many themes for code window | FREE |
-| Auto-fill | Auto-fill |   |
-| Debugging | Loading time multiple projects |   |
 
 
 #### CHOSEN IDE --> VISUAL STUDIO CODE
